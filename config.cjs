@@ -1,6 +1,6 @@
 module.exports = {
   "ALIVE_IMG": "",
-  "FOOT": "©𝐌𝐑 𝐌𝐀𝐍𝐔𝐋 𝐎𝐅𝐂 💚",
+  "FOOT": "ꪶ★🌏^®𝐑𝐀𝐈𝐍𝐁𝐎𝐖®^🌏★ꫂ𝐅𝐑𝐒",
   "PREFIX": ".",
   "AUTO_READ_STATUS": "true",
   "MODE": "private",
@@ -14,7 +14,7 @@ module.exports = {
   "ANTI_LINK": "false",
   "ANTI_PHOTO": "warn",
   "ANTI_STICKER": "warn",
-  "ANTI_DELETE": false,
+  "ANTI_DELETE": true ,
   "DELETEMSGSENDTO": "94742274855",
   "ALWAYS_ONLINE": "false",
   "MOROCCO_BLOCK": "false",
